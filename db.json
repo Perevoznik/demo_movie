@@ -5,6 +5,7 @@
     {"id":2, "title":"Джуманджи", "genre":"Комедия", "director":"Джейк Кэздан", "year":"2017", "duration":"118 мин.", "trailer":"fEjzIhf0c8c", "image":"https://thumbs.dfs.ivi.ru/storage2/contents/6/d/600a462382268153c3188d5701ced8.jpg"},
     {"id":3, "title":"Аквамен", "genre":"Фантастика", "director":"Джеймс Ван", "year":"2018", "duration":"137 мин.", "trailer":"3TBIf36qiGE", "image":"https://st.kp.yandex.net/images/film_iphone/iphone360_470178.jpg"},
     {"id":4, "title":"Веном", "genre":"Ужас", "director":"Рубен Фляйшер", "year":"2018", "duration":"112 мин.", "trailer":"4UbBeUlqfPc", "image":"https://st.kp.yandex.net/images/film_iphone/iphone360_463634.jpg"},
-    {"id":5, "title":"Исчезнувшая", "genre":"Драма", "director":"Дэвид Финчер", "year":"2014", "duration":"149 мин.", "trailer":"il5pBokQymQ", "image":"https://st.kp.yandex.net/images/film_iphone/iphone360_692861.jpg"}
+    {"id":5, "title":"Исчезнувшая", "genre":"Драма", "director":"Дэвид Финчер", "year":"2014", "duration":"149 мин.", "trailer":"il5pBokQymQ", "image":"https://st.kp.yandex.net/images/film_iphone/iphone360_692861.jpg"},
+    {"id":5, "title":"Побег из Шоушенка", "genre":"Боевик", "director":"Фрэнк Дарабонт", "year":"1994", "duration":"142 мин.", "trailer":"kgAeKpAPOYk", "image":"https://st.kp.yandex.net/images/film_iphone/iphone360_326.jpg"}
   ]
 }
