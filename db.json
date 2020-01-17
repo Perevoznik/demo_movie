@@ -1,6 +1,9 @@
 {
   "movie":
   [
-    {"id":1, "title":"Опасная роль", "genre":"Триллер", "director":"Бенедикт", "year":"2020", "duration":"102 мин."}
+    {"id":1, "title":"Опасная роль", "genre":"Триллер", "director":"Бенедикт", "year":"2020", "duration":"102 мин.", "trailer":"Tck5EBUTeoc", "image":"http://kinodoza.tv/uploads/posts/2019-12/1576665758_494d119929.jpg"},
+    {"id":1, "title":"Джуманджи", "genre":"Комедия", "director":"Джейк Кэздан", "year":"2017", "duration":"118 мин.", "trailer":"fEjzIhf0c8c", "image":"https://thumbs.dfs.ivi.ru/storage2/contents/6/d/600a462382268153c3188d5701ced8.jpg"},
+    {"id":1, "title":"Аквамен", "genre":"Фантастика", "director":"Джеймс Ван", "year":"2018", "duration":"137 мин.", "trailer":"3TBIf36qiGE", "image":"https://st.kp.yandex.net/images/film_iphone/iphone360_470178.jpg"},
+    {"id":1, "title":"Веном", "genre":"Ужасы", "director":"Рубен Фляйшер", "year":"2018", "duration":"112 мин.", "trailer":"4UbBeUlqfPc", "image":"https://st.kp.yandex.net/images/film_iphone/iphone360_463634.jpg"},
   ]
 }
